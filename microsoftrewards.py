@@ -1,9 +1,3 @@
-
-from calendar import MONDAY
-
-
-
-
 import pyautogui as pg
 import time
 import subprocess as sb
