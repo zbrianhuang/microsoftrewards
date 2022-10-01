@@ -42,20 +42,3 @@ for phrase in file_windows:
 
     file_windows.close
 
-#Edge
-sb.Popen("C://Program Files (x86)//Microsoft//Edge//Application//msedge.exe")
-time.sleep(5)
-
-file_edge = open("site.txt")
-phrase = file_edge.readline
-
-
-for phrase in file_edge:
-
-    write()
-    new_tab()
-    close_tab()
-
-
-close_window()
-file_edge.close
